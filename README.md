@@ -2,7 +2,7 @@
 
 # 🩺 Diabetes Risk Prediction using Machine Learning
 
-![Poster Snapshot](https://chatgpt.com/c/path-to-poster-image-if-uploaded)
+![Poster Snapshot](Poster\Diabetes Prediction Model Poster.png)
 
 > 🏆 *Awarded Best Poster at AMSC, IIT Roorkee – Foundation Day 2025*
 
