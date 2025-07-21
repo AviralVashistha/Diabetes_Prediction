@@ -2,7 +2,7 @@
 
 # 🩺 Diabetes Risk Prediction using Machine Learning
 
-![Poster Snapshot](Poster\Diabetes Prediction Model Poster.png)
+![Poster Snapshot]([Poster\Diabetes Prediction Model Poster.png](https://github.com/AviralVashistha/Diabetes_Prediction/blob/main/Poster/Diabetes%20Prediction%20Model%20Poster.png))
 
 > 🏆 *Awarded Best Poster at AMSC, IIT Roorkee – Foundation Day 2025*
 
